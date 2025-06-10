@@ -1,0 +1,11 @@
+---
+tags:
+  - tao
+  - "#being"
+  - "#becoming"
+aliases:
+  - 1700/5/A
+---
+Links:
+[[5.1 Monsters Guarding Sacred Trees]]
+Religious Knowledge is that which pertains to being. 
