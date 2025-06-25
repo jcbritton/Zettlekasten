@@ -1,3 +1,0 @@
-# 1300/8/Ecclesiastical History
-
-<!-- Add your notes here -->

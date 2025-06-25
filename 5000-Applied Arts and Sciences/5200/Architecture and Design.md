@@ -1,3 +1,0 @@
-# 5200/Architecture and Design
-
-<!-- Add your notes here -->

@@ -1,3 +1,0 @@
-# 1300/16/Philosophical History
-
-<!-- Add your notes here -->

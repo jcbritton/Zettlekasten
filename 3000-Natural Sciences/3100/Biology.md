@@ -1,3 +1,0 @@
-# 3100/Biology
-
-<!-- Add your notes here -->

@@ -1,3 +1,0 @@
-# 1500/12/Procedural Law
-
-<!-- Add your notes here -->

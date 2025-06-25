@@ -1,3 +1,0 @@
-# 2200/Archaeology
-
-<!-- Add your notes here -->

@@ -1,3 +1,0 @@
-# 1800/1/Canon Law
-
-<!-- Add your notes here -->

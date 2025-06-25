@@ -1,3 +1,0 @@
-# 6700/Social Work
-
-<!-- Add your notes here -->

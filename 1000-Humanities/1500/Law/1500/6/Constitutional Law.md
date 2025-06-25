@@ -1,3 +1,0 @@
-# 1500/6/Constitutional Law
-
-<!-- Add your notes here -->

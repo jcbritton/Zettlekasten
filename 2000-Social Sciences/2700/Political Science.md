@@ -1,3 +1,0 @@
-# 2700/Political Science
-
-<!-- Add your notes here -->

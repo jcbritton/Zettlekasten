@@ -1,3 +1,0 @@
-# 1800/4/Pastoral Counseling
-
-<!-- Add your notes here -->

@@ -1,3 +1,0 @@
-# 1300/4/Art History
-
-<!-- Add your notes here -->

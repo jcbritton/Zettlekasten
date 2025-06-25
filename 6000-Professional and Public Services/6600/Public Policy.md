@@ -1,3 +1,0 @@
-# 6600/Public Policy
-
-<!-- Add your notes here -->

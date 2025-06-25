@@ -1,3 +1,0 @@
-# 1800/10/Missiology
-
-<!-- Add your notes here -->

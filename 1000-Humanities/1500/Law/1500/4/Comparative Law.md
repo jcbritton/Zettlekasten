@@ -1,3 +1,0 @@
-# 1500/4/Comparative Law
-
-<!-- Add your notes here -->

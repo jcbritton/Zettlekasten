@@ -1,3 +1,0 @@
-# 1300/3/Ancient History
-
-<!-- Add your notes here -->

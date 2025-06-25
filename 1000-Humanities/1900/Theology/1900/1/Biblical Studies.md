@@ -1,3 +1,0 @@
-# 1900/1/Biblical Studies
-
-<!-- Add your notes here -->

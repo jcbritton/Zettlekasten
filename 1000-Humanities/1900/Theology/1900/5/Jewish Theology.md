@@ -1,3 +1,0 @@
-# 1900/5/Jewish Theology
-
-<!-- Add your notes here -->

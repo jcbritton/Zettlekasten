@@ -1,3 +1,0 @@
-# 1900/4/Hindu Theology
-
-<!-- Add your notes here -->

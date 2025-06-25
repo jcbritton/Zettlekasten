@@ -1,3 +1,0 @@
-# 1500/8/Islamic or Sharia Law
-
-<!-- Add your notes here -->

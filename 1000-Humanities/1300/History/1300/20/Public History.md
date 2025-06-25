@@ -1,3 +1,0 @@
-# 1300/20/Public History
-
-<!-- Add your notes here -->

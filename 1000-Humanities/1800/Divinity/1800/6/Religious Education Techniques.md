@@ -1,3 +1,0 @@
-# 1800/6/Religious Education Techniques
-
-<!-- Add your notes here -->

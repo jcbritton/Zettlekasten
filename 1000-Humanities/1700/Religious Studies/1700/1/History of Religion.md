@@ -1,3 +1,0 @@
-# 1700/1/History of Religion
-
-<!-- Add your notes here -->

@@ -1,3 +1,0 @@
-# 1300/History
-
-<!-- Add your notes here -->

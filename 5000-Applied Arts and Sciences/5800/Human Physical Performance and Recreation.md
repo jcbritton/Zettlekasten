@@ -1,3 +1,0 @@
-# 5800/Human Physical Performance and Recreation
-
-<!-- Add your notes here -->

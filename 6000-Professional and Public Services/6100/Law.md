@@ -1,3 +1,0 @@
-# 6100/Law
-
-<!-- Add your notes here -->
