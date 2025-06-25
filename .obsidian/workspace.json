@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d15fe3e87a6e079f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb17a60407ee0d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5b067c2173e1219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/3. Sacred Reality/3.2 Understanding or Learning Life.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.2 Understanding or Learning Life"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9465a983c1a16a93",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ea14f72e152765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e20d7c72d27c135d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "039229f6b676392d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d56fed98fb41e40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "right": {
+    "id": "7ab22d6c6cf886e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bb33a960a1c891d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "994fa86fbc85ce88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5ba2a2f78e2a97a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5a8eeecee7f09591",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d13931025caba51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/3. Sacred Reality/3.2 Understanding or Learning Life.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3.2 Understanding or Learning Life"
+            }
+          },
+          {
+            "id": "01f672a64479cd02",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ee355abe7884ef5e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b5b067c2173e1219",
+  "lastOpenFiles": [
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/3. Sacred Reality/3.1 The Shift from Sacred Reality to Profane Existence.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/2. Cosmogony/2.1 The Ontological Substance is Love.md",
+    "3000-Natural Sciences.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/4. Hierophanies/4.1 The hierophany of a stone.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/5A.0-1.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/5A.1.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/5A.3 Satan's Chief Purpose.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/5A.2 Religious Knowledge.md",
+    "1000_ Humanities/1600_ Philosophy/7_ Metaphysics/7B_ Ontology/1. The Ontological Obsession/1.1 The Ontological Obsession and Cosmogony.md",
+    "1000_ Humanities/1600_ Philosophy/7_ Metaphysics/7B_ Ontology/7B.1 Ontophany.md",
+    "Zettlekasten_outline.md",
+    "The Righteous Mind.md",
+    "README.md",
+    "Obsession with Righteousness.md",
+    "import os.py",
+    "5000-Applied Arts and Sciences.md",
+    "4000-Formal Sciences.md",
+    "6000_ Professional and Public Services/6700_ Social Work/2_ Social Welfare",
+    "6000_ Professional and Public Services/6700_ Social Work/1_ Community Development",
+    "6000_ Professional and Public Services/6800_ Transportation/3_ Urban Transport",
+    "6000_ Professional and Public Services/6800_ Transportation/2_ Traffic Engineering",
+    "6000_ Professional and Public Services/6800_ Transportation/1_ Logistics",
+    "6000_ Professional and Public Services/6400_ Military Sciences/3_ Strategic Studies",
+    "6000_ Professional and Public Services/6400_ Military Sciences/2_ Military History",
+    "6000_ Professional and Public Services/6400_ Military Sciences/1_ Military Engineering",
+    "6000_ Professional and Public Services/6500_ Public Administration/2_ Public Policy",
+    "4000_ Formal Sciences/4100_ Computer Science/9_ Human–Computer Interaction/9A. Hyperconnectivity.md",
+    "2000_ Social Sciences/2800_ Psychology/9_ Social Psychology/9A. Zeitgeist/1. Anomie as the Current Zeitgeist.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/5. Sacred Trees/5.2 Other Manifestations of Sacred Trees/5.2 Other Manifestations of Sacred Trees.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/5. Sacred Trees/5.1 The Cross as archetype of the sacred tree/5.1 Monsters Guarding Sacred Trees.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/5. Sacred Trees/5.1 The Cross as archetype of the sacred tree/5.1A From the Harrowing of Hades.md",
+    "1000_ Humanities/1600_ Philosophy/4_ Ethics/4C_ Moral Psychology/2. Morality/2A. Moral Judgements/2A.1 Moral Judgement are not subjective.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/3. Sacred Reality/3.2 Understanding or Learning Life.md",
+    "1000_ Humanities/1700_ Religious Studies/5_ Phenomenology of Religion/5A_ Sacred and Profane (Mircea Eliade)/1. Ritual/1.1 Repetition of Divine Models.md",
+    "1000_ Humanities/1600_ Philosophy/7_ Metaphysics/7B_ Ontology/1. The Ontological Obsession/1.4 Culturally Transmitted attachment to self-existence.md",
+    "1000_ Humanities/1600_ Philosophy/7_ Metaphysics/7B_ Ontology/1. The Ontological Obsession/1.2 The Ontological Obsession is sacred and being.md",
+    "Untitled.canvas"
+  ]
+}
